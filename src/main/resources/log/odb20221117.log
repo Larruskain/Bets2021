@@ -1,0 +1,14 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-11-17 16:33:53 #1 store] 
+Database '/home/kimi/git/Bets2021/src/main/resources/bets.temp' has been recovered (tr. 25-29)
+
+[2022-11-17 16:33:53 #2 store] 
+Database '/home/kimi/git/Bets2021/src/main/resources/bets.temp' is opened by 5988@kPC
+
+[2022-11-17 16:33:53 #3 type] 
+Type domain.Event is not enhanced.
+
+[2022-11-17 16:33:53 #4 type] 
+Type domain.Question is not enhanced.
+
